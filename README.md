@@ -27,4 +27,4 @@ A List of dotfile repos that I have curated - PR if you want to add yours
 
 
 ### 
-[Logo](https://github.com/jglovier/dotfiles-logo) by [Joel Glovier](https://github.com/orderedlist)
+[Logo](https://github.com/jglovier/dotfiles-logo) by [Joel Glovier](https://github.com/jglovier)
