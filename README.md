@@ -4,8 +4,8 @@
 A List of dotfile repos that I have curated - PR if you want to add yours
 
 ## Tutorial 
-From [Pengwynn](https://dotfiles.github.io/tutorials/)
-From [Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
++ From [Pengwynn](https://dotfiles.github.io/tutorials/)
++ From [Atlassian](https://www.atlassian.com/git/tutorials/dotfiles)
 
 ## Linux Users
 + 
