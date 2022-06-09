@@ -15,6 +15,7 @@ A List of dotfile repos that I have curated - PR if you want to add yours
 + https://github.com/michaeldyrynda/dotfiles - [Podcaster](https://dyrynda.com.au/), Laracon AU Organiser
 + https://github.com/timacdonald/dotfiles - Core [Laravel](https://laravel.com/) Developer
 + https://github.com/pengwynn/dotfiles - Creator of [dotfiles](https://dotfiles.github.io/tutorials/) tutorial
++ https://github.com/qmacro/dotfiles - Developer, Author, Speaker, Teacher
 
 
 
