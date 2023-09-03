@@ -18,6 +18,9 @@ A List of dotfile repos that I have curated - PR if you want to add yours
 + https://github.com/qmacro/dotfiles - Developer, Author, Speaker, Teacher
 + https://github.com/timacdonald/dotfiles - Core Laravel Developer [Blog](https://timacdonald.me/)
 
+## Uses Make to install
++ https://github.com/jessfraz/dotfiles - [Ramblings from Jessie](https://blog.jessfraz.com/)
+
 
 ## Windows Users
 + 
