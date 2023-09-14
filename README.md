@@ -1,4 +1,4 @@
-# Meta dotfiles
+# Meta [dotfiles](https://dotfiles.github.io/)
 ![](https://github.com/jglovier/dotfiles-logo/blob/main/dotfiles-logo.png)
 
 A List of dotfile repos that I have curated - PR if you want to add yours
@@ -17,6 +17,7 @@ A List of dotfile repos that I have curated - PR if you want to add yours
 + https://github.com/pengwynn/dotfiles - Creator of [dotfiles](https://dotfiles.github.io/tutorials/) tutorial
 + https://github.com/qmacro/dotfiles - Developer, Author, Speaker, Teacher
 + https://github.com/timacdonald/dotfiles - Core Laravel Developer [Blog](https://timacdonald.me/)
++ https://github.com/driesvints/dotfiles - Core Laravel Developer [Blog](https://driesvints.com/blog/getting-started-with-dotfiles)
 
 ## Uses Make to install
 + https://github.com/jessfraz/dotfiles - [Ramblings from Jessie](https://blog.jessfraz.com/)
